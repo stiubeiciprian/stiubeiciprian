@@ -1,4 +1,4 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 I am a recent computer science graduate at Babes-Bolyai University in Cluj-Napoca, Romania <img src="https://cdn-icons-png.flaticon.com/512/197/197587.png" width="13"/>. I am passionate about software development, cloud computing and deep learning.
 
